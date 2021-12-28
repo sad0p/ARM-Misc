@@ -3,6 +3,7 @@
 
 # Test whether an immediate value can be encoded by ARM32 Assembler by emulating the encoding mechanism
 
+# chmod u+x ./armValidImmediate.py
 # Usage: ./armValidImmediate.py [immediate-value-hex-or-dec-representation]
 
 # v = n ror 2*r
